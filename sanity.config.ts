@@ -7,8 +7,8 @@ export default defineConfig({
   name: 'default',
   title: 'unstuckwoman',
 
-  projectId: '1v0dc0vw',
-  dataset: 'dataset_2',
+  projectId: 'q0c3zitk',
+  dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
 
